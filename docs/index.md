@@ -13,6 +13,11 @@ My background includes significant tenure in technical product leadership, givin
 
 I take an analytical, data-led approach to decision-making and technical prioritisation, balancing short-term delivery with long-term platform health. I bring strong technical grounding and I’m comfortable reviewing system designs, challenging assumptions, and balancing trade-offs with senior engineers. I place a strong emphasis on coaching, mentorship, and creating an inclusive, high-trust environment where engineers can do their best work and grow their careers.
 
+## **Relocation & Finland Context**
+
+Planning permanent relocation to Finland. Married to a Finnish national, with close family ties in Finland and regular extended stays over many years.
+
+I speak basic Finnish, with prior formal study and ongoing daily exposure. We raise our son bilingually, with Finnish spoken at home, and I am comfortable living and working in a bilingual environment. I am continuing to improve my Finnish through regular use.
 
 ## **Skills**
 
