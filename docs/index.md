@@ -11,7 +11,7 @@ An experienced Engineering Manager with a strong technical foundation, specialis
 
 My background includes significant tenure in technical product leadership, giving me a well-developed product mindset that complements my engineering role. I’m comfortable operating at the intersection of people leadership, technical direction, and delivery, helping teams stay focused on outcomes and improving flow through pragmatic ways of working.
 
-I take an analytical, data-led approach to decision-making and technical prioritisation, balancing short-term delivery with long-term platform health. I bring strong technical grounding and I’m comfortable reviewing system designs, challenging assumptions, and balancing trade-offs with senior engineers. I place a strong emphasis on coaching, mentorship, and creating an inclusive, high-trust environment where engineers can do their best work and grow their careers.
+I take an analytical, data-led approach to decision-making and technical prioritisation, balancing short-term delivery with long-term platform health. I bring strong technical grounding and I’m confident reviewing system designs, challenging assumptions, and balancing trade-offs with senior engineers. I place a strong emphasis on coaching, mentorship, and creating an inclusive, high-trust environment where engineers can do their best work and grow their careers.
 
 ## **Relocation & Finland Context**
 
@@ -57,7 +57,7 @@ I speak basic Finnish, with prior formal study and ongoing daily exposure. We ra
 **Marks & Spencer** | *May 2025 - Present*  
 - Accountable for delivery outcomes in the Web Platform area, leading teams responsible for shared web foundations used across the digital estate.
 - Partner closely with Product and senior engineers to set direction, align stakeholders, and balance delivery with long-term technical health.
-- Improve Developer Experience by reducing friction and cognitive load through platform capabilities, tooling, and clear standards.
+- Improve developer experience by reducing friction and cognitive load through platform capabilities, tooling, and clear standards.
 - Foster a high bar for engineering excellence through expectations, coaching, and continuous improvement of ways of working.
 - Champion responsible and effective use of AI to improve delivery, quality, and developer productivity.
 
@@ -100,5 +100,5 @@ I speak basic Finnish, with prior formal study and ongoing daily exposure. We ra
 - SAFe 5.0 Agilist
 
 
-## **Selected Project**
+## **Personal Project**
 - **The Cabin** — terminal-based survival-horror text adventure with a diegetic free-text AI interpreter (LLM + rules-based fallback), stateful world model, and structured quests/logging. https://github.com/amomand/the-cabin
