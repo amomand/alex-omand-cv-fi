@@ -1,0 +1,22 @@
+/* Hide GitHub Pages title */
+h1:first-of-type {
+  display: none;
+}
+
+/* Show the main title in the generated PDF output */
+.pdf-output h1:first-of-type {
+  display: block;
+}
+
+/* Slightly smaller type in the PDF only */
+.pdf-output {
+  font-size: 0.8rem;
+  line-height: 1.2;
+}
+
+/* Reduce margins for a tighter layout */
+body {
+  max-width: 1100px;  /* Slightly wider */
+  margin: 5px auto !important;  /* Force smaller margins */
+  padding: 5px 30px !important;  /* Reduce padding */
+}
