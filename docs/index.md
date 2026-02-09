@@ -102,4 +102,4 @@ I speak basic Finnish, with prior formal study and ongoing daily exposure. We ra
 
 
 ## **Personal Project**
-- [The Cabin](https://github.com/amomand/the-cabin) — terminal-based survival-horror text adventure with a diegetic free-text AI interpreter (LLM + rules-based fallback), stateful world model, and structured quests/logging.
+- [The Cabin](https://www.the-cabin.fi) — terminal-based survival-horror text adventure with a diegetic free-text AI interpreter (LLM + rules-based fallback), stateful world model, and structured quests/logging.
